@@ -4632,42 +4632,6 @@
       "email": "subha@gmail.com",
       "password": "Subha@123",
       "id": 1
-    },
-    {
-      "username": "Sonu",
-      "email": "sonu@gmail.com",
-      "password": "Sonu@123",
-      "id": 2
-    },
-    {
-      "username": "Vaibhav",
-      "email": "vaibhav@gmail.com",
-      "password": "Vaibhav@123",
-      "id": 3
-    },
-    {
-      "username": "Bikram",
-      "email": "bikram@gmail.com",
-      "password": "Bikram@123",
-      "id": 4
-    },
-    {
-      "username": "Shivam",
-      "email": "shivam@gmail.com",
-      "password": "Shivam@123",
-      "id": 5
-    },
-    {
-      "username": "Shiv",
-      "email": "shiv@gmail.com",
-      "password": "Shiv@12345",
-      "id": 6
-    },
-    {
-      "username": "Vaibhav Kumar",
-      "email": "vaibhav@gmail.com",
-      "password": "Vaibhav@123",
-      "id": 7
     }
   ],
   "userProfile": {
